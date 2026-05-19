@@ -1,0 +1,12 @@
+let age=16;
+console.log(age<18);
+console.log(age>18);
+console.log(age>=18);
+console.log(age<=18);
+console.log(age==18);
+console.log(age!=18);
+console.log('a'>'A');
+console.log('a'>'b');
+console.log('b'>'c');
+console.log('B'>'C');
+console.log('*'<'f');
