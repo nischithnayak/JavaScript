@@ -1,0 +1,19 @@
+const classInfo=[
+    {
+        name:"aman",
+        grade:"A+",
+        city:"Delhi"
+    },
+    {
+        name:"Shradha",
+        grade:"B+",
+        city:"Mumbai",
+    }, 
+    {
+        name:"Karan",
+        grade:"C+",
+        city:"Banglore"
+    }
+]
+num=Math.floor(Math.random()*10)+1;
+console.log(num);
